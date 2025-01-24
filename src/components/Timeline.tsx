@@ -40,13 +40,7 @@ const timelineData = [
     description: "Took a break to focus on personal growth and gained leadership experience during this time.",
     icon: <Split className="w-6 h-6" />,
   },
-  {
-    year: 2023,
-    title: "Team Lead",
-    company: "Solida Reinigungsfirma",
-    description: "Worked as a team lead, managing operations and team dynamics in a non-technical role.",
-    icon: <UserCog className="w-6 h-6" />,
-  },
+  
   {
     year: 2024,
     title: "Refresh Course at Masterschool",
